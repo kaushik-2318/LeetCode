@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/kaushik-2318/LeetCode/tree/master/0027-remove-element) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/kaushik-2318/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/kaushik-2318/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 ## Bit Manipulation
@@ -17,4 +18,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/kaushik-2318/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/kaushik-2318/LeetCode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
