@@ -35,11 +35,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0407-trapping-rain-water-ii](https://github.com/kaushik-2318/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0733-flood-fill](https://github.com/kaushik-2318/LeetCode/tree/master/0733-flood-fill) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kaushik-2318/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1558-course-schedule-iv](https://github.com/kaushik-2318/LeetCode/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/kaushik-2318/LeetCode/tree/master/1876-map-of-highest-peak) |
 ## Graph
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kaushik-2318/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1558-course-schedule-iv](https://github.com/kaushik-2318/LeetCode/tree/master/1558-course-schedule-iv) |
 | [1916-find-center-of-star-graph](https://github.com/kaushik-2318/LeetCode/tree/master/1916-find-center-of-star-graph) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/kaushik-2318/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Heap (Priority Queue)
@@ -67,9 +69,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/kaushik-2318/LeetCode/tree/master/0733-flood-fill) |
+| [1558-course-schedule-iv](https://github.com/kaushik-2318/LeetCode/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/kaushik-2318/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Topological Sort
 |  |
 | ------- |
+| [1558-course-schedule-iv](https://github.com/kaushik-2318/LeetCode/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/kaushik-2318/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 <!---LeetCode Topics End-->
