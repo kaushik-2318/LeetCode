@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kaushik-2318/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kaushik-2318/LeetCode/tree/master/0027-remove-element) |
+| [0200-number-of-islands](https://github.com/kaushik-2318/LeetCode/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/kaushik-2318/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0733-flood-fill](https://github.com/kaushik-2318/LeetCode/tree/master/0733-flood-fill) |
 | [1104-coloring-a-border](https://github.com/kaushik-2318/LeetCode/tree/master/1104-coloring-a-border) |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/kaushik-2318/LeetCode/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/kaushik-2318/LeetCode/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/kaushik-2318/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0733-flood-fill](https://github.com/kaushik-2318/LeetCode/tree/master/0733-flood-fill) |
 | [0871-keys-and-rooms](https://github.com/kaushik-2318/LeetCode/tree/master/0871-keys-and-rooms) |
@@ -58,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/kaushik-2318/LeetCode/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/kaushik-2318/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0733-flood-fill](https://github.com/kaushik-2318/LeetCode/tree/master/0733-flood-fill) |
 | [1104-coloring-a-border](https://github.com/kaushik-2318/LeetCode/tree/master/1104-coloring-a-border) |
@@ -77,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/kaushik-2318/LeetCode/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/kaushik-2318/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/kaushik-2318/LeetCode/tree/master/0733-flood-fill) |
 | [0871-keys-and-rooms](https://github.com/kaushik-2318/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1104-coloring-a-border](https://github.com/kaushik-2318/LeetCode/tree/master/1104-coloring-a-border) |
@@ -87,4 +91,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1558-course-schedule-iv](https://github.com/kaushik-2318/LeetCode/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/kaushik-2318/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/kaushik-2318/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
