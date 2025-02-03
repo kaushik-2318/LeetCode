@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2685-first-completely-painted-row-or-column](https://github.com/kaushik-2318/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kaushik-2318/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2792-neighboring-bitwise-xor](https://github.com/kaushik-2318/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/kaushik-2318/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
