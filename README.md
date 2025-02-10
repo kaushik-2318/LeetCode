@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/kaushik-2318/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/kaushik-2318/LeetCode/tree/master/3447-clear-digits) |
 ## Math
 |  |
 | ------- |
@@ -126,4 +127,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2448-count-number-of-bad-pairs](https://github.com/kaushik-2318/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+## String
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/kaushik-2318/LeetCode/tree/master/3447-clear-digits) |
+## Stack
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/kaushik-2318/LeetCode/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
