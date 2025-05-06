@@ -12,6 +12,5 @@ public:
         else{
             return d;
         }
-
     }
 };
