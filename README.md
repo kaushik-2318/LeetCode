@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kaushik-2318/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kaushik-2318/LeetCode/tree/master/0027-remove-element) |
+| [0130-surrounded-regions](https://github.com/kaushik-2318/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kaushik-2318/LeetCode/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/kaushik-2318/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/kaushik-2318/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/kaushik-2318/LeetCode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/kaushik-2318/LeetCode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/kaushik-2318/LeetCode/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/kaushik-2318/LeetCode/tree/master/0407-trapping-rain-water-ii) |
@@ -120,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/kaushik-2318/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kaushik-2318/LeetCode/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/kaushik-2318/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/kaushik-2318/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -161,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/kaushik-2318/LeetCode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/kaushik-2318/LeetCode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/kaushik-2318/LeetCode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/kaushik-2318/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -184,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/kaushik-2318/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kaushik-2318/LeetCode/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/kaushik-2318/LeetCode/tree/master/0684-redundant-connection) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/kaushik-2318/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
