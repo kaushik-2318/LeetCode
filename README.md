@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/kaushik-2318/LeetCode/tree/master/0133-clone-graph) |
 | [0684-redundant-connection](https://github.com/kaushik-2318/LeetCode/tree/master/0684-redundant-connection) |
 | [0871-keys-and-rooms](https://github.com/kaushik-2318/LeetCode/tree/master/0871-keys-and-rooms) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/kaushik-2318/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kaushik-2318/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/kaushik-2318/LeetCode/tree/master/1558-course-schedule-iv) |
 | [1916-find-center-of-star-graph](https://github.com/kaushik-2318/LeetCode/tree/master/1916-find-center-of-star-graph) |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/kaushik-2318/LeetCode/tree/master/0133-clone-graph) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kaushik-2318/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kaushik-2318/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/kaushik-2318/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1160-letter-tile-possibilities](https://github.com/kaushik-2318/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/kaushik-2318/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/kaushik-2318/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -174,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/kaushik-2318/LeetCode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/kaushik-2318/LeetCode/tree/master/0733-flood-fill) |
 | [0871-keys-and-rooms](https://github.com/kaushik-2318/LeetCode/tree/master/0871-keys-and-rooms) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/kaushik-2318/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/kaushik-2318/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1104-coloring-a-border](https://github.com/kaushik-2318/LeetCode/tree/master/1104-coloring-a-border) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/kaushik-2318/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -195,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/kaushik-2318/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kaushik-2318/LeetCode/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/kaushik-2318/LeetCode/tree/master/0684-redundant-connection) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/kaushik-2318/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/kaushik-2318/LeetCode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/kaushik-2318/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kaushik-2318/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
