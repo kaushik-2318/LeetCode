@@ -220,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/kaushik-2318/LeetCode/tree/master/1013-fibonacci-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kaushik-2318/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kaushik-2318/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kaushik-2318/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -316,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kaushik-2318/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1013-fibonacci-number](https://github.com/kaushik-2318/LeetCode/tree/master/1013-fibonacci-number) |
 | [1170-shortest-common-supersequence](https://github.com/kaushik-2318/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kaushik-2318/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/kaushik-2318/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -344,4 +346,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kaushik-2318/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/kaushik-2318/LeetCode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/kaushik-2318/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
