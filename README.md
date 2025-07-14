@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/kaushik-2318/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/kaushik-2318/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/kaushik-2318/LeetCode/tree/master/0200-number-of-islands) |
+| [0268-missing-number](https://github.com/kaushik-2318/LeetCode/tree/master/0268-missing-number) |
 | [0407-trapping-rain-water-ii](https://github.com/kaushik-2318/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/kaushik-2318/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/kaushik-2318/LeetCode/tree/master/0733-flood-fill) |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0136-single-number](https://github.com/kaushik-2318/LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/kaushik-2318/LeetCode/tree/master/0268-missing-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kaushik-2318/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/kaushik-2318/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/kaushik-2318/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -165,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0133-clone-graph](https://github.com/kaushik-2318/LeetCode/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/kaushik-2318/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/kaushik-2318/LeetCode/tree/master/0268-missing-number) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kaushik-2318/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kaushik-2318/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kaushik-2318/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -237,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0062-unique-paths](https://github.com/kaushik-2318/LeetCode/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/kaushik-2318/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0268-missing-number](https://github.com/kaushik-2318/LeetCode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/kaushik-2318/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/kaushik-2318/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kaushik-2318/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -286,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kaushik-2318/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kaushik-2318/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/kaushik-2318/LeetCode/tree/master/0268-missing-number) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kaushik-2318/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Design
 |  |
@@ -376,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/kaushik-2318/LeetCode/tree/master/0268-missing-number) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/kaushik-2318/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kaushik-2318/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/kaushik-2318/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
