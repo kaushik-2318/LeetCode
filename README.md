@@ -239,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0096-unique-binary-search-trees](https://github.com/kaushik-2318/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [1013-fibonacci-number](https://github.com/kaushik-2318/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/kaushik-2318/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kaushik-2318/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kaushik-2318/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kaushik-2318/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kaushik-2318/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -401,4 +402,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/kaushik-2318/LeetCode/tree/master/0096-unique-binary-search-trees) |
+## Linked List
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kaushik-2318/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
