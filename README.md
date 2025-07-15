@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/kaushik-2318/LeetCode/tree/master/0268-missing-number) |
 | [0407-trapping-rain-water-ii](https://github.com/kaushik-2318/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/kaushik-2318/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0485-max-consecutive-ones](https://github.com/kaushik-2318/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0733-flood-fill](https://github.com/kaushik-2318/LeetCode/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/kaushik-2318/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kaushik-2318/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
