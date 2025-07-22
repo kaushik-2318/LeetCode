@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kaushik-2318/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1603-running-sum-of-1d-array](https://github.com/kaushik-2318/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kaushik-2318/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1813-maximum-erasure-value](https://github.com/kaushik-2318/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/kaushik-2318/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/kaushik-2318/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/kaushik-2318/LeetCode/tree/master/1876-map-of-highest-peak) |
@@ -179,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1227-number-of-equivalent-domino-pairs](https://github.com/kaushik-2318/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/kaushik-2318/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kaushik-2318/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1813-maximum-erasure-value](https://github.com/kaushik-2318/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kaushik-2318/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/kaushik-2318/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/kaushik-2318/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -381,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kaushik-2318/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1813-maximum-erasure-value](https://github.com/kaushik-2318/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kaushik-2318/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/kaushik-2318/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kaushik-2318/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
