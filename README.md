@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/kaushik-2318/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/kaushik-2318/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/kaushik-2318/LeetCode/tree/master/0200-number-of-islands) |
+| [0238-product-of-array-except-self](https://github.com/kaushik-2318/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/kaushik-2318/LeetCode/tree/master/0268-missing-number) |
 | [0407-trapping-rain-water-ii](https://github.com/kaushik-2318/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/kaushik-2318/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -310,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/kaushik-2318/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kaushik-2318/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1603-running-sum-of-1d-array](https://github.com/kaushik-2318/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kaushik-2318/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
