@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/kaushik-2318/LeetCode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kaushik-2318/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kaushik-2318/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1503-reducing-dishes](https://github.com/kaushik-2318/LeetCode/tree/master/1503-reducing-dishes) |
 | [1603-running-sum-of-1d-array](https://github.com/kaushik-2318/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kaushik-2318/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1813-maximum-erasure-value](https://github.com/kaushik-2318/LeetCode/tree/master/1813-maximum-erasure-value) |
@@ -304,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/kaushik-2318/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kaushik-2318/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kaushik-2318/LeetCode/tree/master/0268-missing-number) |
+| [1503-reducing-dishes](https://github.com/kaushik-2318/LeetCode/tree/master/1503-reducing-dishes) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kaushik-2318/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Design
 |  |
@@ -338,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/kaushik-2318/LeetCode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1503-reducing-dishes](https://github.com/kaushik-2318/LeetCode/tree/master/1503-reducing-dishes) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/kaushik-2318/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/kaushik-2318/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Tree
@@ -381,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1236-n-th-tribonacci-number](https://github.com/kaushik-2318/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/kaushik-2318/LeetCode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/kaushik-2318/LeetCode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1503-reducing-dishes](https://github.com/kaushik-2318/LeetCode/tree/master/1503-reducing-dishes) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kaushik-2318/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/kaushik-2318/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Number Theory
