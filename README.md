@@ -439,4 +439,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/kaushik-2318/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/kaushik-2318/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
