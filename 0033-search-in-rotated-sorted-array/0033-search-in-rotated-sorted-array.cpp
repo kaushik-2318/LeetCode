@@ -1,45 +1,31 @@
 class Solution {
 public:
-    int getpivot(vector<int>& arr, int n){
-        int low = 0;
-        int high = n-1;
-        int mid = mid = low  +(high-low)/2;
-        while(low<high){
-            if(arr[mid]>=arr[0]){
-                low = mid+1;
-            }
-            else{
-                high = mid;
-            }
-            mid = low  +(high-low)/2;
-        }
-        return low;
-    }
-    int binarySearch(vector<int>& nums,int low, int pivot , int key){
-        int high = pivot;
-        int mid = low + (high - low)/2;
-        while(low<=high){
-            if(nums[mid] == key){
+    int search(vector<int>& arr, int k) {
+        int n = arr.size();
+        int l = 0;
+        int h = n-1;
+        while(l<=h){
+            int mid = (l+h)/2;
+            if(arr[mid] == k){
                 return mid;
             }
-            else if(key>nums[mid]){
-                low = mid+1;
+            if(arr[l] <= arr[mid]){
+                if(arr[l] <= k && k <= arr[mid]){
+                    h = mid - 1;
+                }
+                else{
+                    l = mid + 1;
+                }
             }
             else{
-                high = mid -1;
+                if(arr[mid] <= k && k <= arr[h]){
+                    l = mid + 1;
+                }
+                else{
+                    h = mid - 1;
+                }
             }
-            mid = low  +(high-low)/2;
         }
         return -1;
-    }
-    int search(vector<int>& nums, int target) {
-        int n = nums.size();
-        int pivot = getpivot(nums,n);
-        if(target>=nums[pivot] && target<=nums[n-1]){
-            return binarySearch(nums,pivot,n-1,target);
-        }
-        else{
-            return binarySearch(nums,0,pivot,target);
-        }
     }
 };
