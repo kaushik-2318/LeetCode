@@ -258,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/kaushik-2318/LeetCode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/kaushik-2318/LeetCode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/kaushik-2318/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0268-missing-number](https://github.com/kaushik-2318/LeetCode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/kaushik-2318/LeetCode/tree/master/1013-fibonacci-number) |
@@ -385,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/kaushik-2318/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/kaushik-2318/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kaushik-2318/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/kaushik-2318/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/kaushik-2318/LeetCode/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/kaushik-2318/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/kaushik-2318/LeetCode/tree/master/0118-pascals-triangle) |
@@ -440,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kaushik-2318/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/kaushik-2318/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/kaushik-2318/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Combinatorics
