@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2448-count-number-of-bad-pairs](https://github.com/kaushik-2318/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kaushik-2318/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/kaushik-2318/LeetCode/tree/master/2478-longest-nice-subarray) |
+| [2529-range-product-queries-of-powers](https://github.com/kaushik-2318/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/kaushik-2318/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/kaushik-2318/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/kaushik-2318/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kaushik-2318/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kaushik-2318/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/kaushik-2318/LeetCode/tree/master/2478-longest-nice-subarray) |
+| [2529-range-product-queries-of-powers](https://github.com/kaushik-2318/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/kaushik-2318/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/kaushik-2318/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/kaushik-2318/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -353,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-product-of-the-last-k-numbers](https://github.com/kaushik-2318/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1603-running-sum-of-1d-array](https://github.com/kaushik-2318/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kaushik-2318/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2529-range-product-queries-of-powers](https://github.com/kaushik-2318/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/kaushik-2318/LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kaushik-2318/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/kaushik-2318/LeetCode/tree/master/3639-zero-array-transformation-i) |
