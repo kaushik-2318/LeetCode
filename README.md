@@ -315,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/kaushik-2318/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/kaushik-2318/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/kaushik-2318/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/kaushik-2318/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/kaushik-2318/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kaushik-2318/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/kaushik-2318/LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
