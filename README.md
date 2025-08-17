@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0136-single-number](https://github.com/kaushik-2318/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/kaushik-2318/LeetCode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/kaushik-2318/LeetCode/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/kaushik-2318/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kaushik-2318/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kaushik-2318/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -276,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0096-unique-binary-search-trees](https://github.com/kaushik-2318/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0268-missing-number](https://github.com/kaushik-2318/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/kaushik-2318/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/kaushik-2318/LeetCode/tree/master/0342-power-of-four) |
 | [0900-reordered-power-of-2](https://github.com/kaushik-2318/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/kaushik-2318/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/kaushik-2318/LeetCode/tree/master/1236-n-th-tribonacci-number) |
@@ -476,6 +478,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/kaushik-2318/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/kaushik-2318/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/kaushik-2318/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
