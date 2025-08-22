@@ -165,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/kaushik-2318/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/kaushik-2318/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kaushik-2318/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kaushik-2318/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/kaushik-2318/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/kaushik-2318/LeetCode/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/kaushik-2318/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kaushik-2318/LeetCode/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/kaushik-2318/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kaushik-2318/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0900-reordered-power-of-2](https://github.com/kaushik-2318/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kaushik-2318/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -295,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kaushik-2318/LeetCode/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/kaushik-2318/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0900-reordered-power-of-2](https://github.com/kaushik-2318/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1160-letter-tile-possibilities](https://github.com/kaushik-2318/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/kaushik-2318/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -306,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/kaushik-2318/LeetCode/tree/master/0072-edit-distance) |
+| [0451-sort-characters-by-frequency](https://github.com/kaushik-2318/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/kaushik-2318/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/kaushik-2318/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/kaushik-2318/LeetCode/tree/master/1170-shortest-common-supersequence) |
@@ -338,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/kaushik-2318/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kaushik-2318/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kaushik-2318/LeetCode/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/kaushik-2318/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0900-reordered-power-of-2](https://github.com/kaushik-2318/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1503-reducing-dishes](https://github.com/kaushik-2318/LeetCode/tree/master/1503-reducing-dishes) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kaushik-2318/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -534,4 +539,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/kaushik-2318/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/kaushik-2318/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
